@@ -1,5 +1,4 @@
 NOMBRE DE MODELOS:
-    1. Modelo de cascada
-    2. Modelo de cascada con feedback
+
+
     3. Modelo iterativo incremental
-    4. Modelo AGILE
